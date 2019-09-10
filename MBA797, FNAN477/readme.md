@@ -1,1 +1,1 @@
-Useful scripts for grabbing stock data from various online source, graphing and analyzing correlation between single stocks and indices and calculating important financial ratios: Treynor/Sharpe
+Useful scripts for grabbing stock data from various online sources; graphing and analyzing correlation between single stocks and indices and (TODO) calculating important financial ratios: Treynor/Sharpe
