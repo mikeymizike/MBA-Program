@@ -1,4 +1,5 @@
-#this script downloads 10-K and 10-Q reports from edgar using the sec_edgar_downloader package and renames them so they resolve correctly as html files.
+#this script downloads 10-K and 10-Q reports for specified tickers from EDGAR using the sec_edgar_downloader package 
+#and renames them so they resolve correctly as html files.
 import sec_edgar_downloader,os
 from sec_edgar_downloader import Downloader
 
