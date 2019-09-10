@@ -7,8 +7,8 @@ import numpy as np
 
 browser = webdriver.Chrome()
 
-teamid = "[teamid]"
-password = "[password]"
+teamid = "teamid"
+password = "password"
 
 urls = ["JOBIN","S1UTIL","S1Q","S2UTIL","S2Q","S3UTIL","S3Q","CASH"]
 column_letter = ["A","B","C","D","E","F","G","H","I"]
