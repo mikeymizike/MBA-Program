@@ -19,7 +19,7 @@ client = TiingoClient(config)
 start_date = '2018-09-01'
 end_date = '2019-09-01'
 
-#download historical data and assign variables to daily returns, daily percent returns and 1 index returns 
+#download historical data and assign variables to daily daily percent returns and annualized returns
 #for ALL SMIF stocks
 #helpful guide: https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/
 
