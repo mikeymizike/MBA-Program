@@ -1,6 +1,6 @@
 #This script downloads metadata about specified tickers from Tiingo. You can get an API key on the tiingo website.
 
-from tiingo import TiingoClient
+from tiingo import TiingoClient #pip install tiingo
 
 config = {}
 API_KEY = "your api key"
