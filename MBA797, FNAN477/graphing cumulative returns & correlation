@@ -18,8 +18,7 @@ client = TiingoClient(config)
 start_date = '2018-09-01'
 end_date = '2019-09-01'
 
-#download historical data from tiingo and assign variables to cumulative returns 
-#for SMIF health care stocks
+#download historical data from tiingo and assign variables to cumulative returns for SMIF stocks
 #helpful guide: https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/
 
 SMIF_df = client.get_dataframe(SMIF_tickers+SPY,
