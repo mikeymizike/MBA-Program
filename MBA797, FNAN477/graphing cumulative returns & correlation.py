@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from tiingo import TiingoClient
+from tiingo import TiingoClient #pip install tiingo
 import matplotlib.pyplot as plt
 
 from pandas.plotting import register_matplotlib_converters
